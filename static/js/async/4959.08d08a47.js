@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunklantern=self.rspackChunklantern||[]).push([[4959],{4226(s,r,e){e.r(s.exports={})}}]);

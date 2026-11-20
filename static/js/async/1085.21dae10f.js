@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunklantern=self.rspackChunklantern||[]).push([[1085],{4860(e,r,s){s.d(r,{createInfoServices:()=>n.v});var n=s(2179);s(7127)}}]);
